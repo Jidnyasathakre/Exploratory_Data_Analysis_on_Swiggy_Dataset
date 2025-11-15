@@ -41,7 +41,7 @@ The notebook walks through the complete EDA workflow:
   * Weak or no correlation between **Price** and **Rating**.
   * Slight positive correlation between **Rating** and **Rating_Count**.
 
-### **5. Key Insughts**
+### **5. Key Insights**
 
 
 #### **1. State-level Orders**
