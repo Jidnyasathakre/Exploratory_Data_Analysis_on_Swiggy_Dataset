@@ -41,20 +41,79 @@ The notebook walks through the complete EDA workflow:
   * Weak or no correlation between **Price** and **Rating**.
   * Slight positive correlation between **Rating** and **Rating_Count**.
 
-### **5. Key Findings**
+### **5. Key Insughts**
 
-* Karnataka has the highest number of listed dishes.
-* Bengaluru dominates the dataset with large restaurant and dish variety.
-* Popular dish category trends vary by location.
-* Higher prices do **not** necessarily translate to better ratings.
-* Some dishes have extremely high rating counts, indicating popularity and reliability.
+
+#### **1. State-level Orders**
+
+* Karnataka has the highest number of orders.
+* Sikkim has the lowest.
+* A few states—Karnataka, Maharashtra, Telangana, Delhi, and Tamil Nadu—dominate overall orders, indicating a high concentration in metro regions.
+
+
+#### **2. City-level Trends**
+
+* Bengaluru tops the list in city-level orders.
+* Most orders are concentrated in capital or major metropolitan cities.
+
+
+#### **3. Location Insights**
+
+* Gomti Nagar (Lucknow) has the highest number of orders among all individual locations.
+* Some locations, such as Faridabad, receive very few orders.
+
+
+#### **4. Category Analysis**
+
+* The **“Recommended”** category receives the highest number of orders.
+* Many niche categories have extremely low order counts, with more than 300 categories having only a single order.
+
+
+#### **5. Dish Preferences**
+
+* The most ordered dish is **Choco Lava Cake**.
+* Other top dishes include **Veg Fried Rice, Paneer Butter Masala, Chicken Sausage, and Jeera Rice**.
+
+
+#### **6. Price Distribution**
+
+* Dish prices range from **₹0.95** (e.g., Tomato Ketchup) to **₹614** (premium pizzas/meals).
+* The average dish price is approximately **₹252**.
+
+
+##### **7. Ratings**
+
+* Ratings range from **0 to 5**.
+* A large number of dishes have a rating of **0**, indicating they were not rated.
+* Common positive ratings include **4.3, 4.5, and 4.6**.
+
+
+#### **8. Correlation Insights**
+
+* **Price vs Rating:** Shows a weak negative correlation (higher-priced dishes do not necessarily receive higher ratings).
+* **Price vs Rating Count:** Weak negative correlation.
+* **Rating vs Rating Count:** Moderate positive correlation (popular dishes with more ratings tend to have higher ratings).
+
+
+#### **9. Top-Rated Items**
+
+Examples of dishes with a **5.0 rating** include:
+
+* Schweppes Water Bottle
+* Ice Americano Coffee
+* Korean Spice Mix
+
+
+#### **10. Most Reviewed Dish**
+
+* **“OB Chicken Tikka”** at **Yelahanka** has the highest number of rating counts.
 
 ### **6. Business Value**
 
-* Identify top-performing states and cities for strategic expansion.
-* Optimize pricing strategies based on category and location.
-* Improve visibility for high-rated but low-count dishes.
-* Focus on customer engagement in underperforming regions.
+* Focus promotions on top-performing states and cities (such as Karnataka and Bengaluru).
+* Promote bestsellers like **Choco Lava Cake** across new markets.
+* Optimize pricing strategies, as premium pricing does not directly improve ratings.
+* Increase visibility of under-ordered categories and dishes to help balance demand.
 
 ---
 
