@@ -58,8 +58,8 @@ The notebook walks through the complete EDA workflow:
 
 ---
 
-## 📁 **Datset Used**
-<a href="https://github.com/Jidnyasathakre/Exploratory_Data_Analysis_on_Swiggy_Dataset/blob/main/swiggy_all_menus_india.csv"></a>
+## 📁 **Dataset Used**
+- <a href="https://github.com/Jidnyasathakre/Exploratory_Data_Analysis_on_Swiggy_Dataset/blob/main/swiggy_all_menus_india.csv"></a>
 
 ---
 
